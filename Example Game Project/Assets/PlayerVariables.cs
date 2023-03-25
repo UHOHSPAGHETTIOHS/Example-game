@@ -6,4 +6,5 @@ public class PlayerVariables : MonoBehaviour
 {
     public static bool isHitting;
     public static int playerDamage;
+    public float uwu;
 }
