@@ -5,6 +5,13 @@ using UnityEngine;
 public class PlayerVariables : MonoBehaviour
 {
     public static bool isHitting;
-    public static int playerDamage;
-    public float uwu;
+    public static float playerDamage;
+
+    private void Update()
+    {
+        if (isHitting)
+        {
+            playerDamage = 50;
+        }
+    }
 }
