@@ -123,11 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< HEAD
---- !u!1 &2026402141
-=======
---- !u!1 &942550767
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+--- !u!1 &1927656154
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,37 +131,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 2026402143}
-  - component: {fileID: 2026402142}
+  - component: {fileID: 1927656156}
+  - component: {fileID: 1927656155}
   m_Layer: 0
-  m_Name: Circle
-=======
-  - component: {fileID: 942550769}
-  - component: {fileID: 942550768}
-  m_Layer: 0
-  m_Name: Triangle
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+  m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
---- !u!212 &2026402142
-=======
---- !u!212 &942550768
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+--- !u!212 &1927656155
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 2026402141}
-=======
-  m_GameObject: {fileID: 942550767}
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+  m_GameObject: {fileID: 1927656154}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -200,11 +181,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-<<<<<<< HEAD
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-=======
-  m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -215,25 +192,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
---- !u!4 &2026402143
-=======
---- !u!4 &942550769
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+--- !u!4 &1927656156
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 2026402141}
+  m_GameObject: {fileID: 1927656154}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.15, y: -0.47, z: 0}
-=======
-  m_GameObject: {fileID: 942550767}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.014175609, y: 0.14904769, z: 0}
->>>>>>> 67f99439389083a1d33cf0f5f9218fd783484a09
+  m_LocalPosition: {x: 0.4267997, y: -1.2288393, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
